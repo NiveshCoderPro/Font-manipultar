@@ -1,0 +1,14 @@
+.header {
+    background-color: aqua;
+}
+body {
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rebeccapurple;
+}
+
+canvas {
+    border:2px black solid;
+   border-radius: 20%;
+   background-color: yellow;
+}
